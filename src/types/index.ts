@@ -49,7 +49,8 @@ export interface Banner {
   created_at: string
 }
 
-export interface Inquiry {
+export $&
+  guest_name?: string;
   id: string
   listing_id: string
   guest_id: string
