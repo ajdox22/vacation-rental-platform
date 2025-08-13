@@ -1,0 +1,1 @@
+-- Premium Vacation Rental Platform Database Schema

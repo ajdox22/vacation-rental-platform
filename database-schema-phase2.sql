@@ -1,0 +1,1 @@
+-- Phase-2 Vacation Rental Platform Database Schema
